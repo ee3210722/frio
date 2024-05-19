@@ -1,0 +1,109 @@
+.h12{
+    width: 100%;
+    height: auto;
+    max-width: 1200px; 
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.divider {
+    height: 1px;
+    width: 69%;
+    background-color: black;
+    margin-top: 30px auto;
+}
+
+.less-margin{
+    width: 100%; 
+    height: auto; 
+    max-width: 1200px; 
+    margin: 40px auto;
+}
+
+
+.more-margin{
+    width: 100%; 
+    height: auto; 
+    max-width: 1200px; 
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+.zebra-crossing {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0;
+    margin: 50px;
+}
+
+.zebra-image {
+    flex: 1 1 auto;
+    width: 100%;
+    max-width: 630px;
+    max-height: 200px;
+    height: auto;
+}
+
+
+.a13{
+    width: 100%; 
+    height: auto; 
+    max-height: 200px;
+    max-width: 1200px; 
+    margin: 40px auto;
+}
+
+.c12{
+    width: 100%; 
+    height: auto; 
+    max-width: 900px; 
+    margin: 70px auto;
+}
+
+.c13{
+    width: 100%;
+    height: auto;
+    margin: 30px;
+}
+
+.p12-container{
+    background-color: #F4F4F4;
+    margin: 70px auto;
+}
+
+
+.p14{
+    width: 100%; 
+    height: auto; 
+    max-width: 1500px; 
+    margin: 70px auto;
+}
+
+
+.p24{
+    width: 100%; 
+    height: auto; 
+    max-width: 1900px; 
+    margin-top: 70px;
+}
+
+.just-fill{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fill-with-margin{
+    width: 100%;
+    margin: 50px;
+    max-width: 1500px;
+}
+
+
+.footerImg{
+    width: 100%;
+    height: auto;
+    max-width: 1200px; 
+    margin: 60px;
+}
